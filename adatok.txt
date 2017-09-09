@@ -1,0 +1,12 @@
+Számítógép
+Kiss Ádám 23000
+Nagy Géza Gergely 34500
+Szabó Péter 51050
+Könyv
+Szabó Pál 430
+Kiss Ádám 220
+Nagy Pál 325
+Dvd lejátszó
+Nagy Pál 15000
+Szabó Péter 12300
+Kis Réka Nóra 16210
